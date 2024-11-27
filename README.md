@@ -2,4 +2,4 @@
 
 - Makaleye gitmek için <a href="https://blog.angular.dev/meet-angular-v19-7b29dfd05b84">tıklayın</a>
 
-- Videoya gitmek için  <a href="https://blog.angular.dev/meet-angular-v19-7b29dfd05b84">tıklayın</a>
+- Videoya gitmek için  <a href="https://youtu.be/D6T6pmuk25E">tıklayın</a>
